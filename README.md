@@ -22,13 +22,14 @@ a. i.e: github.com/user123/kg_user123_2021
 
 3. Have at least 2 commits into your branch.
 
-a. Please make sure that you have a "main" file (main.go/main.js/main.py)
+- a. Please make sure that you have a "main" file (main.go/main.js/main.py)
 in the root directory of your project, and that when you run the file with
 the test input as arguments, it should print the result in the standard
 output (please be sure to remove your debugging print statements
 before you submit, otherwise it could affect how your submission is
 graded)
-b. We will run your code in the following manner:
+
+ -b. We will run your code in the following manner:
 
 (master) js_code_submission node main.js 123 321
 (master) go_code_submission go run main.go 123 321
