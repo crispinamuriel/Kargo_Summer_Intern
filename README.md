@@ -1,3 +1,23 @@
+## Dear Hiring Manager
+
+Here is my submission for the role  of Intern at Kargo.
+My solution is written in JavaScript and can be found here:
+
+https://github.com/crispinamuriel/kg_crispinamuriel_2019
+
+## Setup
+
+To use this repo:
+
+* Clone this repo!
+* Run the following commands:
+
+```
+cd kg_crispinamuriel_2019
+node main.js
+```
+
+
 ## Question:
 Determine whether a one-to-one character mapping exists from one string, s1, to another string,
 s2.
