@@ -1,0 +1,23 @@
+{
+  "name": "kargo",
+  "version": "1.0.0",
+  "description": "This is my submission for the role  of Intern at Kargo. My solution is written in JavaScript and can be found here:",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crispinamuriel/kg_crispinamuriel_2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crispinamuriel/kg_crispinamuriel_2019/issues"
+  },
+  "homepage": "https://github.com/crispinamuriel/kg_crispinamuriel_2019#readme"
+}

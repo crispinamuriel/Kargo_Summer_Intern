@@ -1,6 +1,6 @@
-## Dear Hiring Manager
+## Notes to Hiring Manager
 
-Here is my submission for the role  of Intern at Kargo.
+This is my submission for the role  of Intern at Kargo.
 My solution is written in JavaScript and can be found here:
 
 https://github.com/crispinamuriel/kg_crispinamuriel_2019
@@ -9,14 +9,32 @@ https://github.com/crispinamuriel/kg_crispinamuriel_2019
 
 To use this repo:
 
-* Clone this repo!
+* Clone this repo
 * Run the following commands:
 
 ```
 cd kg_crispinamuriel_2019
 node main.js
 ```
+## Test
 
+I have written a small test suite using the Testem and Jasmine frameworks.
+
+
+* To run Jasmine tests use the following commands:
+
+```
+cd kg_crispinamuriel_2019
+npm install
+testem
+```
+
+* To run manual tests use the following commands:
+
+```
+cd kg_crispinamuriel_2019
+npm test
+```
 
 ## Question:
 Determine whether a one-to-one character mapping exists from one string, s1, to another string,

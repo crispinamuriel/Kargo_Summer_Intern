@@ -1,4 +1,4 @@
-//test cases
+//manual test cases
 const s1 = 'abc';
 const s2 = 'bdc';
 const s3 = 'foo';
@@ -9,7 +9,7 @@ const s7 = 'fleece';
 const s8 = 'bleed';
 
 //function definition
-const oneTwoOneMap = (s1, s2) => {
+const oneToOneMap = (s1, s2) => {
 
   //returned boolean if input strings have 1:1 mapping
   let result = false;
@@ -50,4 +50,4 @@ const oneTwoOneMap = (s1, s2) => {
 }
 
 //print function return value using test cases
-console.log(oneTwoOneMap(s7, s8));
+console.log(oneToOneMap(s7, s8));
