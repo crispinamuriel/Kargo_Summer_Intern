@@ -21,13 +21,14 @@ node main.js
 I have written a small test suite using the Testem and Jasmine frameworks.
 
 
-* To run Jasmine tests use the following commands:
+* To run Testem/Jasmine tests use the following commands:
 
 ```
 cd kg_crispinamuriel_2019
 npm install
 testem
 ```
+open your browser to http://localhost:7357/
 
 * To run manual tests use the following commands:
 
