@@ -14,7 +14,7 @@ To use this repo:
 
 ```
 cd kg_crispinamuriel_2019
-node main.js
+node main.js 123 321 
 ```
 ## Test
 
