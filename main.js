@@ -49,5 +49,9 @@ const oneToOneMap = (s1, s2) => {
   return result;
 }
 
+//setting up to grab arguments from cli
+const args = process.argv.slice(2);
+
+
 //print function return value using test cases
-console.log(oneToOneMap(s7, s8));
+console.log(oneToOneMap(args[0], args[1]));
