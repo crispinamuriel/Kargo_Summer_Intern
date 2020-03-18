@@ -30,13 +30,6 @@ testem
 ```
 open your browser to http://localhost:7357/
 
-* To run manual tests use the following commands:
-
-```
-cd kg_crispinamuriel_2019
-npm test
-```
-
 ## Question:
 Determine whether a one-to-one character mapping exists from one string, s1, to another string,
 s2.
