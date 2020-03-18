@@ -8,10 +8,10 @@ const s6 = 'foo';
 const s7 = 'fleece';
 const s8 = 'bleed';
 
-//function definition
+//function declaration
 const oneToOneMap = (s1, s2) => {
 
-  //returned boolean if input strings have 1:1 mapping
+  //boolean if input strings have 1:1 mapping
   let result = false;
 
   //split input strings into arrays
