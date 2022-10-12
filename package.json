@@ -22,6 +22,6 @@
   "homepage": "https://github.com/crispinamuriel/kg_crispinamuriel_2019#readme",
   "dependencies": {
     "jasmine": "^3.5.0",
-    "testem": "^3.0.3"
+    "testem": "^3.9.0"
   }
 }
